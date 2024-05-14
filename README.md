@@ -7,4 +7,4 @@ I'm Francisco. Software Engineer from Montevideo, Uruguay. Specialized in cross-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frannfreire&layout=compact)
 
-You can see [my portfolio](https://frannfreire.com)!
+You can see [my portfolio](https://frannfreire.vercel.app)!
